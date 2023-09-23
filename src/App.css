@@ -1,0 +1,21 @@
+* {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-logo {
+  max-width: 75%;
+}
+
+h1 {
+  color: #bc541c;
+  text-align: center;
+}
